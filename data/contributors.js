@@ -2619,6 +2619,15 @@ contributors.unshift(
     github: "https://github.com/Debajyoti14",
     gender: "Male",
   },
+  {
+    name: "Kadam Pramodh",
+    branch: "Computer Science Engineering",
+    college: "Avanthi Institute Of Engineering and Technology",
+    year: 2023, 
+    linkedin: "https://www.linkedin.com/in/pramodh-kadam-025479199/",
+    github: "https://github.com/pramodh-del",
+    gender: "Male"
+  },
 );
 
 export default contributors;
